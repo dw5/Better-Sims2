@@ -1,0 +1,10 @@
+boolProp testingCheatsEnabled true
+boolProp allow45degreeangleofrotation true
+boolProp controlpets on
+boolProp petActionCancel true
+alias carewards "unlockCareerRewards" "Unlocks Career Rewards" "Unlocks Career Rewards for currently selected sim"
+alias mon "moveobjects on" "Allows the player to move objects that are normally unmovable" "Allows the player to pick up, move, and delete all and any object in build or buy mode"
+alias mof "moveobjects off" "Disables the moveobjects cheat" "Only allows the player to pick up objects that can normally be picked up and are not in use"
+alias mm "maxmotives" "Fills the motives of all Sims on the lot" "Brings the motives of all Sims on the lot to +100"
+alias aspoints "aspirationPoints" "Aspiration Points" "Adds Aspiration points to the currently selected sim to buy aspiration reward objects"
+alias aslvl "aspirationLevel" "Changes Aspiration Level" "Changes currently selected sim Aspiration Level"
